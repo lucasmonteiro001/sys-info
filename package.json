@@ -12,6 +12,7 @@
     "system",
     "information"
   ],
+"readme": "README.md",
   "repository" :
   { "type" : "git"
   , "url" : "https://github.com/lucasmonteiro001/sys-info.git"
